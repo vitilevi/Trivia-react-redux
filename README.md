@@ -3,7 +3,7 @@
 ## Como instalar e rodar o projeto:
 
 1. Clone o repositório
-  * `git clone git@github.com:vitilevi/sd-011-project-trivia-react-redux.git`.
+  * `git clone git@github.com:vitilevi/Trivia-react-redux.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-011-project-trivia-react-redux`
 
