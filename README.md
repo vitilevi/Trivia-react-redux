@@ -5,7 +5,7 @@
 1. Clone o repositório
   * `git clone git@github.com:vitilevi/Trivia-react-redux.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-011-project-trivia-react-redux`
+    * `cd Trivia-react-redux`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
