@@ -13,7 +13,7 @@
   * Inicialize o projeto:
     * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
   
-## É necessário ter o git e node v14.0+ para rodar o projeto.
+## É necessário ter o git e node v14+ para rodar o projeto.
   
 ---
   
